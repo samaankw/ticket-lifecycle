@@ -51,7 +51,7 @@ After completing the form, click Create Ticket to submit the issue. </P>
 Once you're signed in, navigate to the Tickets section and locate the ticket that was created in Step 1. Click on the ticket to open and view its details. </p>
 
 <img src="https://i.imgur.com/h0M3mqk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps">
-<p>ince this is a business-critical incident, update the ticket with the following details:
+<p> Since this is a business-critical incident, update the ticket with the following details:
 
 Priority: Set to Emergency, as mobile online banking downtime can result in significant revenue loss.
 
@@ -66,6 +66,27 @@ In the Response text box, enter the following message:
 "Coordinating with the System Administrators team to bring mobile banking back online."
 
 Once everything is filled out correctly, click Post Reply to update the ticket and begin resolution efforts. </p>
+<img src="https://i.imgur.com/WVH0CKO.png" height="80%" width="80%" alt="Disk Sanitization Steps">
 
+<img src="https://i.imgur.com/znMB54z.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps">
 
+<h2> Step 3: Working the Issue </h2>
+<p>Behind the scenes, Jane is actively collaborating with the Systems Administration team to investigate and resolve the issue as quickly as possible.</p>
+
+<h2> Stage 4: Resolution </h2>
+<p>Once the issue has been resolved, return to the ticket to update the end user.
+
+In the Response text box, enter the following message:
+
+"Jerry from the Systems Engineering team identified and reconnected a failed load balancer. Mobile banking services should now be fully restored."
+
+Update the Ticket Status to Resolved, then click Post Reply.
+
+Since the issue has been addressed, the ticket will automatically move to the Closed tab. </p>
+
+<img src="https://i.imgur.com/znMB54z.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps">
+
+<img src="https://i.imgur.com/LqUdHlW.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps">
+
+<p>Congratulations! You have created and resolved your first ticket! You have completed the third and final part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.</p>
 
