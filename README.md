@@ -22,8 +22,9 @@
 <h2> Stage 1: Intake - Creating a Ticket    </h2>
 <P>Open osTicket to begin creating a new support ticket.
 
-If you need help with the initial setup, refer to Part 1 of this tutorial series [here].
-For configuration guidance, check out Part 2 of the series [here].
+[If you need help with the initial setup, refer to Part 1 of this tutorial series](https://github.com/samaankw/osticket-prereqs)
+
+[For configuration guidance, check out Part 2 of the series]().
 
 Once you're in the system, click on Open a New Ticket and fill out the form with the following details:
 
